@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todofront/static/css/main.0d76e062.css",
-    "main.js": "/todofront/static/js/main.859361c5.js",
-    "static/js/787.9e0c1f39.chunk.js": "/todofront/static/js/787.9e0c1f39.chunk.js",
-    "index.html": "/todofront/index.html",
-    "main.0d76e062.css.map": "/todofront/static/css/main.0d76e062.css.map",
-    "main.859361c5.js.map": "/todofront/static/js/main.859361c5.js.map",
-    "787.9e0c1f39.chunk.js.map": "/todofront/static/js/787.9e0c1f39.chunk.js.map"
+    "main.css": "/TodoFront/static/css/main.0d76e062.css",
+    "main.js": "/TodoFront/static/js/main.c341bdbe.js",
+    "static/js/787.9e0c1f39.chunk.js": "/TodoFront/static/js/787.9e0c1f39.chunk.js",
+    "index.html": "/TodoFront/index.html",
+    "main.0d76e062.css.map": "/TodoFront/static/css/main.0d76e062.css.map",
+    "main.c341bdbe.js.map": "/TodoFront/static/js/main.c341bdbe.js.map",
+    "787.9e0c1f39.chunk.js.map": "/TodoFront/static/js/787.9e0c1f39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d76e062.css",
-    "static/js/main.859361c5.js"
+    "static/js/main.c341bdbe.js"
   ]
 }
